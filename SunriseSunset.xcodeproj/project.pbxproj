@@ -22,7 +22,7 @@
 		044D42E02D75763000377FEE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 044D42DE2D75763000377FEE /* LaunchScreen.storyboard */; };
 		044D42F52D75763000377FEE /* SunriseSunsetUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044D42F42D75763000377FEE /* SunriseSunsetUITests.swift */; };
 		044D42F72D75763000377FEE /* SunriseSunsetUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044D42F62D75763000377FEE /* SunriseSunsetUITestsLaunchTests.swift */; };
-		044D43042D75768600377FEE /* StandardURLProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044D43032D75768600377FEE /* StandardURLProtocol.swift */; };
+		044D43042D75768600377FEE /* CustomURLProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044D43032D75768600377FEE /* CustomURLProtocol.swift */; };
 		044D43062D7593CB00377FEE /* Website.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044D43052D7593CB00377FEE /* Website.swift */; };
 		044D43082D7593E700377FEE /* City.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044D43072D7593E700377FEE /* City.swift */; };
 		044D430A2D75947000377FEE /* GeocodingAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044D43092D75947000377FEE /* GeocodingAPI.swift */; };
@@ -72,7 +72,7 @@
 		044D42F02D75763000377FEE /* SunriseSunsetUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SunriseSunsetUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		044D42F42D75763000377FEE /* SunriseSunsetUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SunriseSunsetUITests.swift; sourceTree = "<group>"; };
 		044D42F62D75763000377FEE /* SunriseSunsetUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SunriseSunsetUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		044D43032D75768600377FEE /* StandardURLProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StandardURLProtocol.swift; sourceTree = "<group>"; };
+		044D43032D75768600377FEE /* CustomURLProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomURLProtocol.swift; sourceTree = "<group>"; };
 		044D43052D7593CB00377FEE /* Website.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Website.swift; sourceTree = "<group>"; };
 		044D43072D7593E700377FEE /* City.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = City.swift; sourceTree = "<group>"; };
 		044D43092D75947000377FEE /* GeocodingAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeocodingAPI.swift; sourceTree = "<group>"; };
@@ -203,7 +203,7 @@
 		044D43102D759AF700377FEE /* URL */ = {
 			isa = PBXGroup;
 			children = (
-				044D43032D75768600377FEE /* StandardURLProtocol.swift */,
+				044D43032D75768600377FEE /* CustomURLProtocol.swift */,
 				044D43052D7593CB00377FEE /* Website.swift */,
 				044D43072D7593E700377FEE /* City.swift */,
 			);
@@ -354,7 +354,7 @@
 				044D431B2D759DCB00377FEE /* Extensions.swift in Sources */,
 				044D42D62D75762F00377FEE /* SceneDelegate.swift in Sources */,
 				042335FB2D76B36E004E0B03 /* MockURLProtocol.swift in Sources */,
-				044D43042D75768600377FEE /* StandardURLProtocol.swift in Sources */,
+				044D43042D75768600377FEE /* CustomURLProtocol.swift in Sources */,
 				044D43142D759B5E00377FEE /* LocalizationKey.swift in Sources */,
 				044D43182D759C6D00377FEE /* Constant.swift in Sources */,
 				042335F32D76A368004E0B03 /* Attributed.swift in Sources */,
