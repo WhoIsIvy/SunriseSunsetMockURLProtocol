@@ -16,6 +16,9 @@ After cloning, the app is fully functional and can be tested in the simulator. S
 - 90185 for Los Angeles, CA
 - 84121 for Salt Lake City, UT
 <br>
+<a href="url"><img src="SunriseSunset/Assets.xcassets/SunriseSunsetScreenshot.imageset/SunriseSunsetScreenshot.png" alt="App Screenshot" height="500" ></a>
+<br>
+<br>
 Copyright (C) 2025 Lisa Fellows
 <br>
 SunriseSunsetMockURLProtocol cannot be copied and/or distributed without express permission.
