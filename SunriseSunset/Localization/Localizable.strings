@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  SunriseSunset
+
+  Created by Lisa Fellows on 3/3/25.
+  
+*/
+
+
+"disclaimer" = "App by AppFellows  |  Geocoding by openweathermap.org  |  Sunrise & Sunset Information by sunrise-sunset.org  |  Background Art by Kirsty Pargeter  | from Nature Vectors by Vecteezy  | www.vecteezy.com/free-vector/nature";
+"emptyZip" = "Please enter a US zipcode";
+"invalidLocation" = "There was an issue finding the location";
+"invalidTimes" = "There was an issue finding the current sun times";
+"sunrise" = "Sunrise";
+"sunset" = "Sunset";
+"unknownErrorText" = "An unknown error occurred";
+"zipInvalidDigit" = "A US zipcode can only contain numbers";
+"zipInvalidDigitCount" = "A US zipcode must have 5 digits";
+"zipPlaceholder" = "Enter US Zip Code";
